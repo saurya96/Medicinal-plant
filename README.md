@@ -1,3 +1,2 @@
- <br>World Medicinal Plants Website</br>
-<br>This project is a simple Medicinal Plant Information Website built using HTML, CSS, JavaScript, and DOM manipulation. </br> 
+ <br>World Medicinal Plants Website</br>.<br>This project is a simple Medicinal Plant Information Website built using HTML, CSS, JavaScript, and DOM manipulation. </br> 
 <br>It allows users to search for medicinal plants and learn about their scientific names, family, active compounds, primary uses, and diseases they can help treat.</br>
